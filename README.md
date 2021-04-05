@@ -10,11 +10,7 @@ $ pip install git+git://github.com/ricardodeazambuja/rndwriter --upgrade
 ```
 
 
-How to use (it will ask you your password because `dd` needs `sudo` for drives):  
-```
-$ rndwriter <file_you_want_to_write_random_stuff>
-```
-
+How to use (it will ask you your password because `dd` needs `sudo`):  
 ```
 $ rndwriter /dev/<drive_you_want_to_write_random_stuff>
 ```
