@@ -17,3 +17,5 @@ $ rndwriter /dev/<drive_you_want_to_write_random_stuff>
 
 
 ## Not sure about the drive? [lsblk](https://man7.org/linux/man-pages/man8/lsblk.8.html) is your friend.
+
+### Don't have pip? Download everything to a directory and run ```python setup.py install``` and it should work...
