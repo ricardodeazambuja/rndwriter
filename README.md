@@ -1,7 +1,7 @@
 # rndwriter
 Write random data to random positions
 
-This program is for when you are in a rush, you already used shred on this file / disk (you think), so you don't have time to write random stuff on ALL the file / disk again. It defaults to 30% of your disk will be randomly written with random data.
+This program is for when you are in a rush, you already used shred on this disk (you think), so you don't have time to write random stuff on ALL the disk again. It defaults to 30% of your disk will be randomly written with random data.
 **USE IT AT YOUR OWN RISK!!!**
 
 How to install:  
